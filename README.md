@@ -5,10 +5,10 @@
 Use GitHub Issues to track ideas, feedback, tasks, or bugs for work on GitHub.
 
 - [Create an issue](./github_issue/README.md)
-- Use the issue template: put [these folder](./github_issue/template)
+- Use the issue template: put the folder [PULL_REQUEST_TEMPLATE](./github_issue/template)
  in **.github/** in your repo.
 
-## Codeowner
+## Codeowners
 
 Code owners are automatically requested for review when someone opens a pull request that modifies code that they own.
 
@@ -22,7 +22,7 @@ The branch name must follow [these convention](./branch_convention/README.md)
 
 Creating Pull Request must follow [these convention](./pull_request/README.md)
 
-## Project
+## GitHub Project
 
 A project is an adaptable spreadsheet, task-board, and road map that integrates with your issues and pull requests on GitHub to help you plan and track your work effectively.
 

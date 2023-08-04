@@ -1,4 +1,6 @@
-## Creating an organization project
+# GitHub Project
+
+### Creating an organization project
 
 1. In the top right corner of GitHub.com, click your profile photo, then click Your organizations.
 
@@ -15,7 +17,7 @@
 6. Click a built-in template, a template from your organization or, to start with an empty project, click **Table** or **Board**.
 7. Click **Create**.
 
-## Adding issues to your project
+### Adding issues to your project
 
 1. Place your cursor in the bottom row of the project, next to the **+**.
 
@@ -24,7 +26,7 @@
 2. Paste the URL of the issue or pull request.
 3. To add the issue or pull request, press `return`.
 
-## Adding draft issues to your project
+### Adding draft issues to your project
 
 1. Place your cursor in the bottom row of the project, next to the **+**.
 
@@ -33,7 +35,7 @@
 2. Type your idea, then press **Enter**.
 3. To add body text, click on the title of the draft issue. In the markdown input box that appears, enter the text for the draft issue body, then click **Save**.
 
-## Adding an iteration field
+### Adding a new field
 
 Next, create an iteration field so you can plan and track your work over repeating blocks of time.
 Iterations can be configured to suit how you and your team works, with customizable lengths and the ability to insert breaks.
@@ -44,11 +46,10 @@ Iterations can be configured to suit how you and your team works, with customiza
 
 2. Click **New field**.
 3. At the top of the dropdown, type the name of your new field.
-4. Select **Iteration**.
-5. To change the duration of each iteration, type a new number, then select the dropdown and click either **days** or **weeks**.
-6. Click **Save**.
+4. Choose the **Field type** and other option for new field.
+5. Click **Save**.
 
-## Assigning To Project
+### Assigning to project
 
 1. Navigate to the issue or pull request that you want to add to a project.
 2. In the side bar, click **Projects**.
