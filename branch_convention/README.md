@@ -5,6 +5,7 @@
 - Feature branches: `feature/<id_of_issue>-<issue_name>`
 - Bug branches: `bug/<id_of_issue>-<issue_name>`
 - Chore branches: `chore/<id_of_issue>-<issue_name>`
+- Document branches: `doc/<id_of_issue>-<issue_name>`
 - If the change is small which is not required issue, then the branch name should be: `chore/<short_description>`
 
 **Example**: Feature A with issue number 1211 will have branch name: `feature/1211-A`
