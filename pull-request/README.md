@@ -1,4 +1,4 @@
-# Pull Request Conventions
+# Pull Request Convention
 
 ## Title
 - For a single commit, the title is the subject line of the commit message.

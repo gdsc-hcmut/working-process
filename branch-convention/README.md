@@ -1,4 +1,4 @@
-# Branch convention
+# Branch Convention
 
 ## Branch Name: 
 
