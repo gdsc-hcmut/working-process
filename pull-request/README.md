@@ -18,4 +18,4 @@ If the pull request is not ready to be review, we can set it as draft Pull Reque
 
 Add file **pull_request_template.md** in **.github/** directory of your repository.
 
-Sample [here](./template/pull_request_template.md) 
+Sample [here](./templates) 

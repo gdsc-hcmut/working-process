@@ -5,7 +5,7 @@
 Use GitHub Issues to track ideas, feedback, tasks, or bugs for work on GitHub.
 
 - [Create an issue](./github-issues/README.md)
-- Use the issue template: put the folder [PULL_REQUEST_TEMPLATE](./github-issue/template)
+- Use the issue template: put the folder [PULL_REQUEST_TEMPLATE](./github-issue/templates)
  in **.github/** in your repo.
 
 ## Setup Codeowners
