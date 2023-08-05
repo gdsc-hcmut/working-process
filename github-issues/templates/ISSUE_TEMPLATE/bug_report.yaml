@@ -28,8 +28,8 @@ body:
     required: false
 - type: textarea
   attributes:
-    label: Screenshort
-    description: If applicable, add screenshots to help explain your problem.
+    label: screenshot
+    description: If possible, add screenshots to help explain your problem.
     placeholder: Ctr + V to paste your screenshot here, or use ![alt](url) for an url image
   validations:
     required: false
