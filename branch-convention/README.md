@@ -8,12 +8,14 @@
 - Document branches: `doc/<id_of_issue>-<issue_name>`
 - If the change is small which is not required issue, then the branch name should be: `chore/<short_description>`
 
-**Example**: Feature A with issue number 1211 will have branch name: `feature/1211-A`
+**Example**: Feature url filter with issue number 1211 will have branch name: `feature/1211-url-filter`
 
 ## Creating a new branch
 - Must branch from **main**
 - Must merge back into **main**
 - Steps to create: 
+
+`$ git checkout main`
   
 `$ git fetch origin`
 
@@ -22,6 +24,8 @@
 `$ git checkout -b <branch_name>`
 
 - Commit and push branch:
+
+`$ git checkout main`
 
 `$ git pull origin main`
 

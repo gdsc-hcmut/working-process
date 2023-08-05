@@ -1,10 +1,10 @@
 # Setup Codeowners
 
-## Define Codeowner
+## Add Codeowners
 
 Create a file name **CODEOWNERS** and put in **.github/** directory in the root of your repo.
 
-### Syntax Of CODEOWNERS:
+## Syntax Of CODEOWNERS:
 These owners will be the default owners for everything in
 the repo. Unless a later match takes precedence,
 @global-owner1 and @global-owner2 will be requested for

@@ -6,10 +6,8 @@
 
 ## Description
 - Must state the why and the how for the change.
-- Must explain the purpose of the PR.
-- Explain any context.
+- Link to the corresponding Issue.
 - State what testing has been performed.
-- You can [assign the issue to someone, choose a reviewers to review, add it to a project board, associate it with a milestone, or apply a label](../github_issue/README.md).
 
 ### Note
 If the pull request is not ready to be review, we can set it as draft Pull Request:
