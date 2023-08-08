@@ -28,6 +28,7 @@ A project is an adaptable spreadsheet, task-board, and road map that integrates 
 
 - [Create a Project](./github-projects/README.md).
 
-## Meeting
+## Scrum Agile
 
-To ensure the progress, each team should have a meeting calendar. Referencing the sample [here](./meeting/README.md).
+An agile project management framework that helps teams structure and manage work through a set of values, principles, and practices.
+For more information, read [here](./scrum-agile/README.md).
