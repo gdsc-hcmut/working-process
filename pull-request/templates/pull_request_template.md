@@ -2,7 +2,7 @@
 <!-- Replace the comment below by your description -->
 - *First change*
 - *Second change*
-- Issue ticket number: <!-- Put the corresponding issue number or write "none" if that number is not existed. -->
+- close #<!-- Put the corresponding issue number here. For example: close #1 -->
 
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my code
