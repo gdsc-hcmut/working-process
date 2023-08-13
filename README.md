@@ -32,3 +32,7 @@ A project is an adaptable spreadsheet, task-board, and road map that integrates 
 
 An agile project management framework that helps teams structure and manage work through a set of values, principles, and practices.
 For more information, read [here](./scrum-agile/README.md).
+
+## Commitlint, ESLint and Prettier
+
+Setup Commitlint, ESLint and Prettier for repository [here](./setup-project//README.md)

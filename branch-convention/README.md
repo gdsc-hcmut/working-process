@@ -36,3 +36,12 @@
 `(resolve conflict)`
 
 `$ git push origin <branch_name>`
+
+## Merging branch
+
+When a branch is merged back into main, we must use **Squash and merge** which only one commit from this branch will be added to base branch instead of all. This will help the commits in base branch more clearly and easy to track.
+
+To setup **Squash and merge** as default, we go to setting. In **Pull Request**, we uncheck the other options.
+
+<img src="https://github.com/gdsc-hcmut/working-process/assets/131350457/76c600c3-4aa9-48f2-9e04-59201ffc984f" alt="setup merging branch" style="height:250px">
+

@@ -4,6 +4,15 @@
 
 Create a file name **CODEOWNERS** and put in **.github/** directory in the root of your repo.
 
+Then, go to **Settings**, choose branch and select to protect **main** branch. In **Protect matching branches**, checking these following boxes:
+
+- **Require a pull request before merging**
+- **Require approvals**, then choose the approvals number
+- **Require review from Code Owners**
+- **Do not allow bypassing the above settings**
+
+With these rules, each pull request must be reviewed by the person that we have defined in **CODEOWNERS** before it can be merged.
+
 ## Syntax Of CODEOWNERS:
 These owners will be the default owners for everything in
 the repo. Unless a later match takes precedence,
