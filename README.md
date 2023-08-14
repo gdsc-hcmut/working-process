@@ -35,4 +35,4 @@ For more information, read [here](./scrum-agile/README.md).
 
 ## Commitlint, ESLint and Prettier
 
-Setup Commitlint, ESLint and Prettier for repository [here](./setup-project//README.md)
+Setup Commitlint, ESLint and Prettier for repository [here](./setup-coding-style/README.md)
