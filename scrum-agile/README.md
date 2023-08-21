@@ -46,7 +46,7 @@ The scrum team drives the plan for each sprint. They forecast how much work they
 - Adding specific user stories from the product backlog to the sprint.
 - After meeting, every scrum member needs to be clear on what can be delivered in the sprint and how the increment can be delivered.
 
-3. **Sprint**: is the actual time period when the scrum team works together to finish an increment. Two weeks is a pretty typical length for a sprint. However, it can be changed if it's not working.
+3. **Sprint**: is the actual time period when the scrum team works together to finish an increment. Usually, a sprint lasts two weeks. After a sprint, an increment (sprint goal) must be released.
 
 4. **Stand up**: This is a frequently super-short meeting that happens at the same time and a place to keep it simple. During this meeting, these flow should be focused:
 - **Report the previous task**: If there is any task on the previous meeting, it should be done before discussing the new one.
