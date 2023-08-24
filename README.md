@@ -32,12 +32,6 @@ A project is an adaptable spreadsheet, task-board, and road map that integrates 
 
 An agile project management framework that helps teams structure and manage work through a set of values, principles, and practices.
 For more information, read [here](./scrum-agile/README.md).
-
-## Git Tag
-
-Tags are ref's that point to specific points in Git history. Tagging is generally used to capture a point in history that is used for a marked version release.
-To create a Git tag, read [here](./git-tag/README.md)
-
 ## Commitlint, ESLint and Prettier
 
 Setup Commitlint, ESLint and Prettier for repository [here](./setup-coding-style/README.md)
