@@ -57,4 +57,13 @@ git push origin <tag_name>
 - **Report the previous task**: If there is any task on the previous meeting, it should be done before discussing the new one.
 - **Solve the difficulty**: If any difficulty happens, we should exchange with other members in team to find the best solution.
 - **Plan for the next task**: the leader creates task by Issues and assigns to other members.
-**Suggested**: 3 meetings/week, 2 days apart each time.
+
+Suggested: 3 meetings/week, 2 days apart each time.
+
+5. **Retrospective**: meetings after a time-boxed period of work is complete. It is an opportunity for agile development teams to reflect on past work together and identify ways to improve.
+
+Suggested questions:
+- What went well during the last sprint?
+- What didn’t go well? 
+- What did we learn? 
+- What should we do differently next time?
