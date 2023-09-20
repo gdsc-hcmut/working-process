@@ -54,7 +54,7 @@ git push origin <tag_name>
 ```
 
 4. **Task Priority and Point**:
-During sprint planning, team discuss which taskes should be done first and decide the **task point**, which estimate the difficult and how long the task can be done in the next sprint.
+During sprint planning, team discuss which tasks should be done first and decide the **task point**, which estimate the difficult and how long the task can be done in the next sprint.
 
 Points:
 - `1` simple and well-understood, 1-2 hours
@@ -62,7 +62,7 @@ Points:
 - `5` 2-3 days
 - `8` up to 1 week
 
-*Notes: Team should consider other activities during the sprint time, such as Club Events, school schedules, ...*
+*Notes: Team should consider other activities during the sprint time, such as club events, school schedules, ...*
 
 5. **Stand up**: This is a frequently super-short meeting that happens at the same time and a place to keep it simple. During this meeting, these flow should be focused:
 - **Report the previous task**: If there is any task on the previous meeting, it should be done before discussing the new one.
