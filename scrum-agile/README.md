@@ -53,8 +53,28 @@ git tag -a <tag_name> -m <message>
 git push origin <tag_name>
 ```
 
-4. **Stand up**: This is a frequently super-short meeting that happens at the same time and a place to keep it simple. During this meeting, these flow should be focused:
+4. **Task Priority and Point**:
+During sprint planning, team discuss which tasks should be done first and decide the **task point**, which estimate the difficult and how long the task can be done in the next sprint.
+
+Points:
+- `1` simple and well-understood, 1-2 hours
+- `3` more involved but still straightforward, 1 day
+- `5` 2-3 days
+- `8` up to 1 week
+
+*Notes: Team should consider other activities during the sprint time, such as club events, school schedules, ...*
+
+5. **Stand up**: This is a frequently super-short meeting that happens at the same time and a place to keep it simple. During this meeting, these flow should be focused:
 - **Report the previous task**: If there is any task on the previous meeting, it should be done before discussing the new one.
 - **Solve the difficulty**: If any difficulty happens, we should exchange with other members in team to find the best solution.
 - **Plan for the next task**: the leader creates task by Issues and assigns to other members.
-**Suggested**: 3 meetings/week, 2 days apart each time.
+
+Suggested: 3 meetings/week, 2 days apart each time.
+
+6. **Retrospective**: meetings after a time-boxed period of work is complete. It is an opportunity for agile development teams to reflect on past work together and identify ways to improve.
+
+Suggested questions:
+- What went well during the last sprint?
+- What didn’t go well? 
+- What did we learn? 
+- What should we do differently next time?
