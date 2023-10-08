@@ -64,6 +64,7 @@ During sprint planning, team discuss which tasks should be done first and decide
 Points:
 
 - `1` simple and well-understood, 1-2 hours
+- `2` still well-understood but require more time, 6-10 hours
 - `3` more involved but still straightforward, 1 day
 - `5` 2-3 days
 - `8` up to 1 week

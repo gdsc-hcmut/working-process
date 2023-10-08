@@ -1,5 +1,7 @@
 # Extension
 
+Download in your Visual Studio Code these list of extensions
+
 1. ESLint
 2. Prettier - Code formatter
 3. Code Spell Checker
